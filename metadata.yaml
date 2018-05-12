@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 46192-rst/images/img-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46192#The-Pan-German-ProgrammeThe-Petition-of-the-Six-Associations-and-the-Manifesto-of-the-Intelle_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2014-07-04'
 gutenberg_type: Text
