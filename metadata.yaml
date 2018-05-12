@@ -1,0 +1,32 @@
+_repo: The-Pan-German-ProgrammeThe-Petition-of-the-Six-Associations-and-the-Manifesto-of-the-Intelle__46192
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bevan, Edwyn Robert
+    alias: Bevan, Edwin R. (Edwin Robert)
+    birthdate: 1870
+    deathdate: 1943
+    gutenberg_agent_id: '43651'
+    url: http://www.gutenberg.org/2009/agents/43651
+covers:
+- cover_type: archival
+  image_path: 46192-rst/images/img-cover.jpg
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2014-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46192'
+  lccn: '18020352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Peace'
+- !lcc 'D501'
+- !lcsh 'Pangermanism'
+title: 'The Pan-German Programme
+
+  The Petition of the Six Associations and the Manifesto of the Intellectuals'
+url: http://www.gutenberg.org/ebooks/46192
